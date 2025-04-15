@@ -45,3 +45,17 @@ footer {
 .footer-link:visited{
     color: #d9daff;
 }
+
+.section-img {
+    display: block;
+    max-width: 200px;
+    width: 100%;
+    height: auto;
+    margin: 0 auto 1em;
+}
+
+.logo {
+    height: 40px;
+    width: auto;    
+    display: block;
+}
